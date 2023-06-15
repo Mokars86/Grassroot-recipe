@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    background-color: grey;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 100;
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    color: brown;
+    
+}
+
+ul li{
+color: aqua;
+font-size: 30px;
+}
+
+ol li {
+    color: aqua;
+font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    display: block;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a:hover {
+    color: aqua;
+}
