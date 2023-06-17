@@ -38,3 +38,8 @@ a{
 a:hover {
     color: aqua;
 }
+
+.new{
+    color: aqua;
+    font-size: 20px;
+}
